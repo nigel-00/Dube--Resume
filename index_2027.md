@@ -17,70 +17,69 @@ Currently a Junior at Brigham Young University-Idaho.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2020-2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Bachelor of Science in Computer Science
+- GPA 3.98 / 4.0.
+- Brigham Young University-Idaho Grant Scholarship January 2021- Present ( Full Ride Schorlaship based on academic merit)
 
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`July 2022 - July 2022`
+__RSM US LLP - Summer Excellency Academy Participant__, Chicago, IL
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Acquired personal and professional skills through leadership training and mentor engagement.
+- Improved networking skills through group engagements and collaboration.
+- Explored different Tech career opportunities and a sneak peek into the middle market
 
-### Data Science Lead
+### Work Experience 
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`April 2022 - July 2022`
+__The Coder School - Computer Programming Tutor__, Gilbert, AZ
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Plan, prepare, and present programming lessons in Scratch, Python, JavaScript, and HTML & CSS.
+- Provided feedback on performance and facilitated goal setting.
+- Taught over 50 students procedural, functional, object-oriented programming, and game creation.
+- Taught with an emphasis on logical thinking and planning.
 
 
-## Service and Work History
+`April 2021 - April 2022`
+__Brigham Young University-Idaho - Business Application Tutor__, Rexburg, ID
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Improved Brigham Young University students' grades in Business Applications by 25% through assisting in mastering
+  Microsoft Excel skills.
+- Led over 80 Brigham Young University students by spearheading group tutoring sessions and one-on-one sessions for
+  Business Applications.
+- Facilitated goal setting for students leading to a 30% increase in mastering Excel skills 
+
+### Summary 
+Detail-oriented, aspiring Software Engineer skilled at optimizing designs based on current and expected demands. Works effectively in 
+high-pressure environments to ensure data collection, management, and trend discovery. Expert in programming languages such as 
+Python, SQL, Tableau, HTML,CSS,JavaScript, etc. Explorestechnical capabilities and pushes boundariesto exceed expectations.
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+## Project 
 
+`Sept 2022- Sept 2022`
+__Chat Application | Node JS, Express JS, JavaScript, HTML & CSS__, 2 Weeks 
+- Created a chat application currently used by 5 members of my family.
+- Presented the project in a code hosting and collaborative environment (GitHub).
+
+`Mar 2022 - Mar 2022`
+__SQL Database-University Database__, 2 Weeks
+- Designed an ERD (Entity Relationship Diagram) using University Data.
+- Wrote queries to produce 10 different resultssets.
+- Utilized SQL functions, sub-queries, clauses, etc.
+- 
+### Skills
+- Object Oriented Programming (Python)
+- Database Systems(SQL).
+-  Python Data Structures Programming.
+- Data Analysis and Manipulation (PythonPandas
 
 
 <!-- ### Footer
