@@ -7,7 +7,9 @@ Currently a Junior at Brigham Young University-Idaho.
 
 <div id="webaddress">
 <a href="sangwen1820@gmail.com">sangweni1820@gmail.com</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+| <a href="https://github.com/nigel-00">GitHub</a>
+| <a href="https://nigelwebsite.netlify.app/">Portfolio</a>
+| <a href="https://www.linkedin.com/in/melokuhle-nigel-dube-401b4820a/">LinkedIn</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
