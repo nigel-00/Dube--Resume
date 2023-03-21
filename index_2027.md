@@ -6,7 +6,7 @@ title: Melokuhle Nigel Dube's resume
 Currently a Junior at Brigham Young University-Idaho.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="sangwen1820@gmail.com">sangweni1820@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 </div>
 
