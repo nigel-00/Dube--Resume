@@ -2,8 +2,8 @@
 layout: resume
 title: Melokuhle Nigel Dube's resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Melokuhle Nigel Dube
+Currently a Junior at Brigham Young University-Idaho.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
