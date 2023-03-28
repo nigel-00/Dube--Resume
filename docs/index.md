@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Melokuhle Nigel Dube's resume
 ---
 # Melokuhle Nigel Dube
